@@ -2,3 +2,4 @@ a = 25
 b = 14
 print(a)
 print('hi')
+print(b)
