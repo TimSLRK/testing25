@@ -10,14 +10,3 @@ print('hah')
 print(3 + 10)
 
 
-
-
-
-
-
-<<<<<<< Updated upstream
-print('stash')
->>>>>>> Stashed changes
-=======
-print('stash')
->>>>>>> Stashed changes
