@@ -1,8 +1,4 @@
-a = 23
+a = 24
 b = 13
 print(a)
 print(b)
-<<<<<<< HEAD
-=======
-print(a + b)
->>>>>>> new-branch
